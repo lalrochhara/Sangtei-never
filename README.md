@@ -1,6 +1,6 @@
 <h1 align="center">Sangtei</h3> 
 
-<p align="center"><a href="https://t.me/SangteiSupport"><img src="https://i.ibb.co/6yqvTcN/oie-oie-glitters.gif"></a></p>
+<p align="center"><a href="https://t.me/SangteiSupport"><img src="https://github.com/lalrochhara/Sangtei/blob/master/host/oie_oie_glitters.gif" width="600" height="590"></a></p>
 <h2>A Powerful, Smart And Simple Group Manager bot </h2>
 
 <p align="center">
